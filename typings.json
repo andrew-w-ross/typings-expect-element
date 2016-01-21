@@ -1,0 +1,11 @@
+{
+  "name": "expect-element",
+  "ambient": true,
+  "author": "Andrew Ross",
+  "description": "Typings for the expect-element library https://github.com/mjackson/expect-element",
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "expect": "github:andrew-w-ross/typings-expect"
+  }
+}
