@@ -1,4 +1,4 @@
-#Typings-Expect
+#Typings-Expect-Element
 
 This is just a type definition for the excellent [expect](https://github.com/mjackson/expect-element) library.
 
