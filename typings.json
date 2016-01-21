@@ -7,5 +7,6 @@
   "devDependencies": {},
   "ambientDependencies": {
     "expect": "github:andrew-w-ross/typings-expect"
-  }
+  },
+  "main":"expect-element.d.ts"
 }
